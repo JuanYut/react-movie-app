@@ -20,7 +20,7 @@ This project combines **external API consumption, modern frontend architecture, 
 ## 🌐 Live Site
 
 👉 **Live demo:**  
-🌐 [Link to Live Demo (Vercel) ↗](linkhere)
+🌐 [Link to Live Demo (Vercel) ↗](https://react-movie-q1k1qvc57-juan-santillans-projects.vercel.app/)
 
 ---
 
