@@ -1,20 +1,51 @@
-# React + Vite
+<div align="center">
+    <a href="" target="_blank">
+      <img src="./public/readme/hero_final_github.png" alt="Project Banner">
+    </a>
+  <br />
+</div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🎬 Movie App (React + Appwrite)
 
-Currently, two official plugins are available:
+## 🧠 Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A web application built with **React** and **Appwrite** that integrates **The Movie Database (TMDB) API** to fetch and display movies dynamically.
 
-## React Compiler
+The app features a **Trending Movies** section based on the most searched titles within the platform. Search data is stored and analyzed using Appwrite to generate internal popularity metrics.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project combines **external API consumption, modern frontend architecture, and backend data** persistence to create a dynamic movie discovery experience.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🌐 Live Site
 
-VITE_APPWRITE_PROJECT_ID = "6993e1c00024662a06ac"
-VITE_APPWRITE_PROJECT_NAME = "jsm_movie_app"
-VITE_APPWRITE_ENDPOINT = "https://sfo.cloud.appwrite.io/v1"
+👉 **Live demo:**  
+🌐 [Link to Live Demo (Vercel) ↗](linkhere)
+
+---
+
+## 👨‍💻 Author
+
+**Juan Santillán**
+| Front-End Developer and creative enthusiast.
+
+---
+
+## 🛠️ Technologies Used
+
+> The following technologies were used in this project.
+
+<div align="left">
+  <img src="./public/readme/React_bag.png" alt="React" height="40" />
+  <img src="./public/readme/Javascript_bag.png" alt="Javascript" height="40" />
+  <img src="./public/readme/Figma_bag.png" alt="Figma" height="40" />
+</div>
+
+---
+
+## ✨ Notes
+
+- Fetches movie data from TMDB API
+- Tracks and stores trending searches using Appwrite
+- Built with React and reusable component architecture
+- Secure configuration using environment variables
