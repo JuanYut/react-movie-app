@@ -20,7 +20,7 @@ This project combines **external API consumption, modern frontend architecture, 
 ## 🌐 Live Site
 
 👉 **Live demo:**  
-🌐 [Link to Live Demo (Vercel) ↗](react-movie-app-phi-ruby.vercel.app)
+🌐 [Link to Live Demo (Vercel) ↗](https://react-movie-app-phi-ruby.vercel.app/)
 
 ---
 
