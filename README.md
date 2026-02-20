@@ -20,7 +20,7 @@ This project combines **external API consumption, modern frontend architecture, 
 ## 🌐 Live Site
 
 👉 **Live demo:**  
-🌐 [Link to Live Demo (Vercel) ↗](https://react-movie-q1k1qvc57-juan-santillans-projects.vercel.app/)
+🌐 [Link to Live Demo (Vercel) ↗](react-movie-app-phi-ruby.vercel.app)
 
 ---
 
@@ -38,6 +38,7 @@ This project combines **external API consumption, modern frontend architecture, 
 <div align="left">
   <img src="./public/readme/React_bag.png" alt="React" height="40" />
   <img src="./public/readme/Javascript_bag.png" alt="Javascript" height="40" />
+  <img src="./public/readme/Appwrite_bag.png" alt="Appwrite" height="40" />
   <img src="./public/readme/Figma_bag.png" alt="Figma" height="40" />
 </div>
 
