@@ -1,6 +1,6 @@
 <div align="center">
     <a href="" target="_blank">
-      <!-- <img src="./public/readme/hero_final_github.png" alt="Project Banner"> -->
+      <img src="./public/readme/hero_final_github.png" alt="Project Banner">
     </a>
   <br />
 </div>
